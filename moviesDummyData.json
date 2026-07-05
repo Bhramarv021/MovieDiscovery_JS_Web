@@ -1,0 +1,342 @@
+[
+  {
+    "id": 27205,
+    "name": "Inception",
+    "rating": 8.364,
+    "votes": 34495,
+    "releaseStatus": "Released",
+    "releaseDate": "2010-07-15",
+    "revenue": 825532764,
+    "runtime": 148,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Tom Hardy",
+      "Ryan Gosling",
+      "Dwayne Johnson"
+    ]
+  },
+  {
+    "id": 157336,
+    "name": "Interstellar",
+    "rating": 8.417,
+    "votes": 32571,
+    "releaseStatus": "Released",
+    "releaseDate": "2014-11-05",
+    "revenue": 701729206,
+    "runtime": 169,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Margot Robbie",
+      "Ryan Gosling",
+      "Zendaya"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "The Dark Knight",
+    "rating": 8.512,
+    "votes": 30619,
+    "releaseStatus": "Released",
+    "releaseDate": "2008-07-16",
+    "revenue": 1004558444,
+    "runtime": 152,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Tom Hardy",
+      "Zendaya",
+      "Scarlett Johansson"
+    ]
+  },
+  {
+    "id": 19995,
+    "name": "Avatar",
+    "rating": 7.573,
+    "votes": 29815,
+    "releaseStatus": "Released",
+    "releaseDate": "2009-12-15",
+    "revenue": 2923706026,
+    "runtime": 162,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Emma Stone",
+      "Ryan Gosling",
+      "Brad Pitt"
+    ]
+  },
+  {
+    "id": 24428,
+    "name": "The Avengers",
+    "rating": 7.71,
+    "votes": 29166,
+    "releaseStatus": "Released",
+    "releaseDate": "2012-04-25",
+    "revenue": 1518815515,
+    "runtime": 143,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Zendaya",
+      "Scarlett Johansson",
+      "Dwayne Johnson"
+    ]
+  },
+  {
+    "id": 293660,
+    "name": "Deadpool",
+    "rating": 7.606,
+    "votes": 28894,
+    "releaseStatus": "Released",
+    "releaseDate": "2016-02-09",
+    "revenue": 783100000,
+    "runtime": 108,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Nicole Kidman",
+      "Dwayne Johnson",
+      "Viola Davis"
+    ]
+  },
+  {
+    "id": 299536,
+    "name": "Avengers: Infinity War",
+    "rating": 8.255,
+    "votes": 27713,
+    "releaseStatus": "Released",
+    "releaseDate": "2018-04-25",
+    "revenue": 2052415039,
+    "runtime": 149,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Dwayne Johnson",
+      "Brad Pitt",
+      "Will Smith"
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Fight Club",
+    "rating": 8.438,
+    "votes": 27238,
+    "releaseStatus": "Released",
+    "releaseDate": "1999-10-15",
+    "revenue": 100853753,
+    "runtime": 139,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Zendaya",
+      "Will Smith",
+      "Keanu Reeves"
+    ]
+  },
+  {
+    "id": 118340,
+    "name": "Guardians of the Galaxy",
+    "rating": 7.906,
+    "votes": 26638,
+    "releaseStatus": "Released",
+    "releaseDate": "2014-07-30",
+    "revenue": 772776600,
+    "runtime": 121,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Viola Davis",
+      "Nicole Kidman",
+      "Chris Evans"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "Pulp Fiction",
+    "rating": 8.488,
+    "votes": 25893,
+    "releaseStatus": "Released",
+    "releaseDate": "1994-09-10",
+    "revenue": 213900000,
+    "runtime": 154,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Keanu Reeves",
+      "Viola Davis",
+      "Meryl Streep"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Forrest Gump",
+    "rating": 8.477,
+    "votes": 25409,
+    "releaseStatus": "Released",
+    "releaseDate": "1994-06-23",
+    "revenue": 677387716,
+    "runtime": 142,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Viola Davis",
+      "Leonardo DiCaprio",
+      "Will Smith"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "rating": 7.916,
+    "votes": 25379,
+    "releaseStatus": "Released",
+    "releaseDate": "2001-11-16",
+    "revenue": 976475550,
+    "runtime": 152,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Meryl Streep",
+      "Tom Hardy"
+    ]
+  },
+  {
+    "id": 1726,
+    "name": "Iron Man",
+    "rating": 7.64,
+    "votes": 24874,
+    "releaseStatus": "Released",
+    "releaseDate": "2008-04-30",
+    "revenue": 585174222,
+    "runtime": 126,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Keanu Reeves",
+      "Tom Hardy",
+      "Emma Stone"
+    ]
+  },
+  {
+    "id": 68718,
+    "name": "Django Unchained",
+    "rating": 8.171,
+    "votes": 24672,
+    "releaseStatus": "Released",
+    "releaseDate": "2012-12-25",
+    "revenue": 425368238,
+    "runtime": 165,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Meryl Streep",
+      "Margot Robbie",
+      "Leonardo DiCaprio"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "The Shawshank Redemption",
+    "rating": 8.702,
+    "votes": 24649,
+    "releaseStatus": "Released",
+    "releaseDate": "1994-09-23",
+    "revenue": 28341469,
+    "runtime": 142,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Emma Stone",
+      "Leonardo DiCaprio",
+      "Scarlett Johansson"
+    ]
+  },
+  {
+    "id": 299534,
+    "name": "Avengers: Endgame",
+    "rating": 8.263,
+    "votes": 23857,
+    "releaseStatus": "Released",
+    "releaseDate": "2019-04-24",
+    "revenue": 2800000000,
+    "runtime": 181,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Scarlett Johansson",
+      "Emma Stone"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "The Matrix",
+    "rating": 8.206,
+    "votes": 23815,
+    "releaseStatus": "Released",
+    "releaseDate": "1999-03-30",
+    "revenue": 463517383,
+    "runtime": 136,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Ryan Gosling",
+      "Dwayne Johnson",
+      "Scarlett Johansson"
+    ]
+  },
+  {
+    "id": 597,
+    "name": "Titanic",
+    "rating": 7.9,
+    "votes": 23637,
+    "releaseStatus": "Released",
+    "releaseDate": "1997-11-18",
+    "revenue": 2264162353,
+    "runtime": 194,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Scarlett Johansson",
+      "Zendaya",
+      "Dwayne Johnson"
+    ]
+  },
+  {
+    "id": 475557,
+    "name": "Joker",
+    "rating": 8.168,
+    "votes": 23425,
+    "releaseStatus": "Released",
+    "releaseDate": "2019-10-01",
+    "revenue": 1074458282,
+    "runtime": 122,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Scarlett Johansson",
+      "Ryan Gosling",
+      "Nicole Kidman"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": 8.402,
+    "votes": 23323,
+    "releaseStatus": "Released",
+    "releaseDate": "2001-12-18",
+    "revenue": 871368364,
+    "runtime": 179,
+    "inCinemas": false,
+    "img": "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
+    "actors": [
+      "Dwayne Johnson",
+      "Nicole Kidman",
+      "Brad Pitt"
+    ]
+  }
+]
